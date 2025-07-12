@@ -1,4 +1,4 @@
-module github.com/relax-space/gomod2B/v1
+module github.com/relax-space/gomod2B/v2
 
 go 1.24.4
 
